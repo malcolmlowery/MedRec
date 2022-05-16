@@ -12,6 +12,7 @@
   "dependencies": {
     "@types/node": "^17.0.33",
     "@types/react": "^18.0.9",
+    "bulma": "^0.9.4",
     "caniuse-lite": "^1.0.30001341",
     "js-tokens": "^4.0.0",
     "loose-envify": "^1.4.0",
@@ -21,6 +22,7 @@
     "postcss": "^8.4.5",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
+    "sass": "^1.51.0",
     "scheduler": "^0.22.0",
     "source-map-js": "^1.0.2",
     "styled-jsx": "^5.0.2",
